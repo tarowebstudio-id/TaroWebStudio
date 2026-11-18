@@ -322,7 +322,7 @@ img, svg {
 }
 
 .logo {
-  font-size: 1.35rem;
+  font-size: 1.6rem;
   font-weight: 800;
   color: #ffffff;
   letter-spacing: -0.03em;
@@ -522,7 +522,7 @@ img, svg {
 }
 
 .logo-item img {
-  max-height: 130px;
+  max-height: 400px;
   width: auto;
   object-fit: contain;
   opacity: 0.5;
