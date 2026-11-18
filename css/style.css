@@ -522,7 +522,7 @@ img, svg {
 }
 
 .logo-item img {
-  max-height: 40px;
+  max-height: 130px;
   width: auto;
   object-fit: contain;
   opacity: 0.5;
@@ -1401,4 +1401,11 @@ img, svg {
   background-color: rgba(16, 185, 129, 0.15) !important;
   color: #10b981 !important;
   border: 1px solid rgba(16, 185, 129, 0.4) !important;
+}
+
+.old-price {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--clr-text-muted);
+  text-decoration: line-through; /* Membuat efek garis coret pada harga lama */
 }
