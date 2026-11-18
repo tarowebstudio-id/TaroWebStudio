@@ -522,8 +522,8 @@ img, svg {
 }
 
 .logo-item img {
-  max-height: 400px;
-  width: auto;
+  height: 120px;
+  width: 180px
   object-fit: contain;
   opacity: 0.5;
   filter: grayscale(100%) brightness(1.8);
